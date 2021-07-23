@@ -6,6 +6,7 @@ Bookstore API is an API built using Laravel v8. It consists of CRUD operations o
 
 - Clone this Repository
 - cd to /bookstore
+
 ```
 composer install
 ```
